@@ -99,12 +99,3 @@ Ejecuta los notebooks en orden desde la carpeta `/notebooks`:
 1. `01_implementacion_red.ipynb` → Red neuronal desde cero
 2. `02_experimentacion.ipynb` → Pruebas y comparaciones
 3. `03_analisis_resultados.ipynb` → Visualización de desempeño
-
----
-
-## 🤖 Autora
-
-**Alejandra Montenegro**  
-Maestría en Inteligencia Artificial  
-Universidad de Especialidades Espíritu Santo  
-Año: 2025
